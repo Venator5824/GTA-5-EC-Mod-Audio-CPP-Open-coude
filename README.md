@@ -1,6 +1,6 @@
 # GTA-5-EC-Mod-Audio-CPP-Open-coude
 
-YOU ONLY GOT GPLv 3.0 LICENSE WHEN YOU DOWNLOADED THESE FILES, the "GTA ENHANCED CONVERSATIONS MOD" by Venator/VenatorMods for GTA5, or using similar. 
+YOU ONLY GOT GPLv 3.0 LICENSE WHEN YOU DOWNLOADED ONE OR MORE THESE FILES, NO MATTER THE VERSION (unless a newer version explitely recalls GPLv3 for that specific or future versions), the "GTA ENHANCED CONVERSATIONS MOD" by Venator/VenatorMods for GTA5, or similar. 
 This is explitelly stated in the README of the mod or file you bought, downloaded or complied or otherwise.
 GPLv 3.0 full access.
 
