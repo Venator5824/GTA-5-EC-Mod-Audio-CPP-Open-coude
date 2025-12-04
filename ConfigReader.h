@@ -1,17 +1,26 @@
 #pragma once
 
 // --- A. SYSTEM INCLUDES ---
-#include <windows.h>
+
 #include <string>
-#include <map>
-#include <vector>
+#include <string.h>
 #include <sstream>
+#include <iostream>
+#include <vector>
 #include <algorithm>
 #include <cctype>
+#include <fstream>
+#include <chrono>
+#include <iomanip>
+#include <ctime>
+#include "SharedData.h"
+#include "ConfigReader.h"
+#include <mmsystem.h>
+#include <filesystem>
+#define NOMINMAX
+#include <windows.h>
 
 // ScriptHookV Basis-Typen
-#include "types.h" 
-#include "SharedData.h"
 
 // ------------------------------------------------------------
 // B. KERN-STRUKTUREN
